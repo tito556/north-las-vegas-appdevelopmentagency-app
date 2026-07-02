@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://north-las-vegas.appdevelopmentagency.app/sitemap.xml
